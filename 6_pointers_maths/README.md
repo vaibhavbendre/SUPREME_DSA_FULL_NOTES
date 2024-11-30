@@ -81,7 +81,7 @@ int gcd(int a,int b){
 applying this till one of the parameter becomes zero
 
 above formula is similar to  
-gcd(a,b) = gcd(a%b,b) this is not prefer because modulus is heave operation compared to subtraction above
+gcd(a,b) = gcd(a%b,b) this is not prefer because modulus is heavy operation compared to subtraction above
 
 another important formula
 
